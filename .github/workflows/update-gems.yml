@@ -1,0 +1,48 @@
+name: Refresh Gems Report
+
+# Runs every Wednesday and rewrites the "Auto-Refreshed News" section of the
+# report with the latest NFL/fantasy headlines from public RSS feeds.
+#
+# NOTE: GitHub only fires `schedule` events from the repository's DEFAULT
+# branch. Until this file is merged to `main`, the Wednesday schedule will not
+# run automatically — but you can still trigger it by hand from the
+# Actions tab ("Run workflow") on any branch that contains this file.
+
+on:
+  schedule:
+    # Wednesdays at 12:00 UTC (~8 AM ET during daylight time, ~7 AM ET otherwise).
+    - cron: "0 12 * * 3"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh the report
+        run: python .github/scripts/update_report.py
+
+      - name: Commit and push any changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: weekly gems refresh $(date -u +'%Y-%m-%d')"
+            git push origin HEAD
+          fi
