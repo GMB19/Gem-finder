@@ -1,5 +1,39 @@
 # News Archive (auto)
 
+## 2026-09-23 — weekly auto-refresh
+
+**RotoBaller (fantasy)**
+- [Week 4 College Fantasy Football Rankings (Top 300) - RB, WR, QB, TE](https://www.rotoballer.com/week-4-college-fantasy-football-rankings-top-300-2026/1948378) (2026-09-23)
+- [Week 4 College Fantasy Football Running Back Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-running-back-rb-rankings-cfb-2026/1948366) (2026-09-23)
+- [Running Back Committees With Upside: Key Fantasy Football Takeaways for Week 3](https://www.rotoballer.com/top-running-back-committees-fantasy-football-breakout-candidates-for-week-3-2026/1947983) (2026-09-23)
+- [Week 4 College Fantasy Football Wide Receiver Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-wide-receiver-wr-rankings-cfb-2026/1948360) (2026-09-23)
+- [Week 4 College Fantasy Football Tight End Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-tight-end-te-rankings-cfb-2026/1948340) (2026-09-23)
+- [Dynasty Fantasy Football Risers and Fallers: September Updates](https://www.rotoballer.com/dynasty-fantasy-football-risers-fallers-september-trade-targets-2026/1947737) (2026-09-23)
+- [Week 4 College Fantasy Football Quarterback Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-quarterback-qb-rankings-cfb-2026/1948322) (2026-09-23)
+- [Start/Sit Chart - All Week 3 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-3-fantasy-football-matchups-for-all-games-2026/1948000) (2026-09-23)
+
+**FantasyPros (fantasy)**
+- [Fantasy Football Rankings: Most Accurate Experts (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-most-accurate-experts-week-3-2026/) (2026-09-23)
+- [Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-advice-safe-risky-picks-week-3-2026/) (2026-09-23)
+- [Fantasy Football Points Allowed: Best & Worst Matchups (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-points-allowed-best-worst-matchups-week-3-2026/) (2026-09-23)
+- [6 Fantasy Football Risers & Fallers: Week 3 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-risers-fallers-week-3-2026/) (2026-09-23)
+- [Fantasy Football Trade Advice: Buy, Sell or Hold (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-trade-advice-buy-sell-or-hold-week-3-2026/) (2026-09-23)
+- [Dynasty Fantasy Football Trade Advice: Buy, Sell, Hold (Week 3)](https://www.fantasypros.com/2026/09/dynasty-fantasy-football-trade-advice-buy-sell-hold-week-3/) (2026-09-23)
+- [Updated Fantasy Football Rest of Season Rankings: Week 3](https://www.fantasypros.com/2026/09/updated-fantasy-football-rest-of-season-rankings-week-3-2026/) (2026-09-23)
+- [Fantasy Football Start/Sit: Jonah Coleman, Denzel Boston, Rashod Bateman](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-jonah-coleman-denzel-boston-rashod-bateman-week-3-2026/) (2026-09-23)
+
+**ESPN (NFL)** — no matching items this week.
+
+**ProFootballTalk (NFL)**
+- [Ben Johnson could be calling plays for a QB other than the first pick in the draft, for the first time](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-could-be-calling-plays-for-a-qb-other-than-the-first-pick-in-the-draft-for-the-first-time) (2026-09-23)
+- [Panthers place RB Jonathon Brooks on IR, sign Isaiah Simmons to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-place-rb-jonathon-brooks-on-ir-sign-isaiah-simmons-to-53-man-roster) (2026-09-23)
+- [PFT's Week 3 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-3-2026-nfl-power-rankings) (2026-09-22)
+- [Report: Jaxson Dart's injury could be season-ending](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-darts-injury-could-be-season-ending) (2026-09-22)
+- [Isaiah Rodgers named NFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isaiah-rodgers-named-nfc-special-teams-player-of-the-week) (2026-09-23)
+- [Raiders CB Hezekiah Masses is the AFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-cb-hezekiah-masses-is-the-afc-defensive-player-of-the-week) (2026-09-23)
+- [Devin Lloyd turns big game into NFC defensive player of the week award](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devin-lloyd-turns-big-game-into-nfc-defensive-player-of-the-week-award) (2026-09-23)
+- [Jaxson Dart is "expected" to have season-ending knee surgery](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-expected-to-have-season-ending-knee-surgery) (2026-09-23)
+
 ## 2026-09-16 — weekly auto-refresh
 
 **RotoBaller (fantasy)**
