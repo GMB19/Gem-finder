@@ -10,42 +10,42 @@
 
 ## ⚡ Auto-Refreshed News — updates every Wednesday
 
-> **Last auto-refresh:** 2026-09-23 · **Next auto-refresh:** Wednesday, 2026-09-30 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
+> **Last auto-refresh:** 2026-09-30 · **Next auto-refresh:** Wednesday, 2026-10-07 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
 >
 > This section is fully automated — a GitHub Action rewrites it every Wednesday morning from the latest headlines and stamps the date. The gem tiers and editorial sections elsewhere in this file are maintained by a human (re-run the research to refresh them).
 
 <!-- AUTO-NEWS-START -->
 **RotoBaller (fantasy)**
-- [Week 4 College Fantasy Football Rankings (Top 300) - RB, WR, QB, TE](https://www.rotoballer.com/week-4-college-fantasy-football-rankings-top-300-2026/1948378) (2026-09-23)
-- [Week 4 College Fantasy Football Running Back Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-running-back-rb-rankings-cfb-2026/1948366) (2026-09-23)
-- [Running Back Committees With Upside: Key Fantasy Football Takeaways for Week 3](https://www.rotoballer.com/top-running-back-committees-fantasy-football-breakout-candidates-for-week-3-2026/1947983) (2026-09-23)
-- [Week 4 College Fantasy Football Wide Receiver Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-wide-receiver-wr-rankings-cfb-2026/1948360) (2026-09-23)
-- [Week 4 College Fantasy Football Tight End Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-tight-end-te-rankings-cfb-2026/1948340) (2026-09-23)
-- [Dynasty Fantasy Football Risers and Fallers: September Updates](https://www.rotoballer.com/dynasty-fantasy-football-risers-fallers-september-trade-targets-2026/1947737) (2026-09-23)
-- [Week 4 College Fantasy Football Quarterback Rankings](https://www.rotoballer.com/week-4-college-fantasy-football-quarterback-qb-rankings-cfb-2026/1948322) (2026-09-23)
-- [Start/Sit Chart - All Week 3 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-3-fantasy-football-matchups-for-all-games-2026/1948000) (2026-09-23)
+- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 4](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-4-2026/1953247) (2026-09-30)
+- [Rest-of-Season Fantasy Football Rankings: Week 4 Updates for Top 200 (2026)](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-4-2026/1953899) (2026-09-30)
+- [Start/Sit Chart - All Week 4 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-4-fantasy-football-matchups-for-all-games-2026/1953976) (2026-09-30)
+- [Week 4 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-4-2026/1953179) (2026-09-30)
+- [Week 5 College Fantasy Football Rankings (Top 300) - RB, WR, QB, TE](https://www.rotoballer.com/week-5-college-fantasy-football-rankings-top-300-2026/1953929) (2026-09-30)
+- [Defenses (DEF) to Start in Week 5 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-5-2026-best-fantasy-football-streaming-options/1954406) (2026-09-30)
+- [Week 5 College Fantasy Football Running Back Rankings](https://www.rotoballer.com/week-5-college-fantasy-football-running-back-rb-rankings-cfb-2026/1953932) (2026-09-30)
+- [Week 5 College Fantasy Football Wide Receiver Rankings](https://www.rotoballer.com/week-5-college-fantasy-football-wide-receiver-wr-rankings-cfb-2026/1953934) (2026-09-30)
 
 **FantasyPros (fantasy)**
-- [Fantasy Football Rankings: Most Accurate Experts (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-most-accurate-experts-week-3-2026/) (2026-09-23)
-- [Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-advice-safe-risky-picks-week-3-2026/) (2026-09-23)
-- [Fantasy Football Points Allowed: Best & Worst Matchups (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-points-allowed-best-worst-matchups-week-3-2026/) (2026-09-23)
-- [6 Fantasy Football Risers & Fallers: Week 3 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-risers-fallers-week-3-2026/) (2026-09-23)
-- [Fantasy Football Trade Advice: Buy, Sell or Hold (Week 3)](https://www.fantasypros.com/2026/09/fantasy-football-trade-advice-buy-sell-or-hold-week-3-2026/) (2026-09-23)
-- [Dynasty Fantasy Football Trade Advice: Buy, Sell, Hold (Week 3)](https://www.fantasypros.com/2026/09/dynasty-fantasy-football-trade-advice-buy-sell-hold-week-3/) (2026-09-23)
-- [Updated Fantasy Football Rest of Season Rankings: Week 3](https://www.fantasypros.com/2026/09/updated-fantasy-football-rest-of-season-rankings-week-3-2026/) (2026-09-23)
-- [Fantasy Football Start/Sit: Jonah Coleman, Denzel Boston, Rashod Bateman](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-jonah-coleman-denzel-boston-rashod-bateman-week-3-2026/) (2026-09-23)
+- [6 Fantasy Football WR/CB Matchups to Know: Week 4 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-wr-cb-matchups-to-know-week-4-2026/) (2026-09-30)
+- [24 Fantasy Football Players to Buy Low & Sell High in Week 4](https://www.fantasypros.com/2026/09/24-fantasy-football-players-to-buy-low-sell-high-in-week-4/) (2026-09-30)
+- [Fantasy Football Points Allowed: Best & Worst Matchups (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-points-allowed-best-worst-matchups-week-4-2026/) (2026-09-30)
+- [Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-advice-safe-risky-picks-week-4-2026/) (2026-09-30)
+- [6 Fantasy Football Risers & Fallers: Week 4 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-risers-fallers-week-4-2026/) (2026-09-30)
+- [Rest-of-Season Fantasy Football Rankings: Week 4 (2026)](https://www.fantasypros.com/2026/09/rest-of-season-fantasy-football-rankings-week-4-2026/) (2026-09-30)
+- [Fantasy Football Rankings: Tight Ends (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-tight-ends-week-4/) (2026-09-30)
+- [Fantasy Football Rankings: Quarterbacks (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-quarterbacks-week-4/) (2026-09-30)
 
 **ESPN (NFL)** — no matching items this week.
 
 **ProFootballTalk (NFL)**
-- [Ben Johnson could be calling plays for a QB other than the first pick in the draft, for the first time](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-could-be-calling-plays-for-a-qb-other-than-the-first-pick-in-the-draft-for-the-first-time) (2026-09-23)
-- [Panthers place RB Jonathon Brooks on IR, sign Isaiah Simmons to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-place-rb-jonathon-brooks-on-ir-sign-isaiah-simmons-to-53-man-roster) (2026-09-23)
-- [PFT's Week 3 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-3-2026-nfl-power-rankings) (2026-09-22)
-- [Report: Jaxson Dart's injury could be season-ending](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-darts-injury-could-be-season-ending) (2026-09-22)
-- [Isaiah Rodgers named NFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isaiah-rodgers-named-nfc-special-teams-player-of-the-week) (2026-09-23)
-- [Raiders CB Hezekiah Masses is the AFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-cb-hezekiah-masses-is-the-afc-defensive-player-of-the-week) (2026-09-23)
-- [Devin Lloyd turns big game into NFC defensive player of the week award](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devin-lloyd-turns-big-game-into-nfc-defensive-player-of-the-week-award) (2026-09-23)
-- [Jaxson Dart is "expected" to have season-ending knee surgery](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-expected-to-have-season-ending-knee-surgery) (2026-09-23)
+- [Packers WR Jayden Reed to miss rest of season with neck injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-wr-jayden-reed-to-miss-rest-of-season-with-neck-injury) (2026-09-30)
+- [Giants don't plan to add Odell Beckham Jr. to the practice squad "at this time"](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-dont-plan-to-add-odell-beckham-jr-to-the-practice-squad-at-this-time) (2026-09-30)
+- [PFT's Week 4 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2026-nfl-power-rankings) (2026-09-29)
+- [Bengals put CB Jalen Davis on IR, sign TE Tanner Hudson to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-put-cb-jalen-davis-on-ir-sign-te-tanner-hudson-to-active-roster) (2026-09-29)
+- [Despite revenue concerns, Packers don't plan to expand Lambeau Field](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-revenue-concerns-packers-dont-plan-to-expand-lambeau-field) (2026-09-30)
+- [Texans put DL Mario Edwards on injured reserve](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-put-dl-mario-edwards-on-injured-reserve) (2026-09-30)
+- [Josh Simmons dealing with bulging disc, will not practice on Wednesday](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-simmons-dealing-with-bulging-disc-will-not-practice-on-wednesday) (2026-09-30)
+- [Minkah Fitzpatrick has "really good chance" of returning to Jets lineup this week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-has-really-good-chance-of-returning-to-jets-lineup-this-week) (2026-09-30)
 <!-- AUTO-NEWS-END -->
 
 ---
