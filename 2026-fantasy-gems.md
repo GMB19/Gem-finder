@@ -10,42 +10,42 @@
 
 ## ⚡ Auto-Refreshed News — updates every Wednesday
 
-> **Last auto-refresh:** 2026-09-30 · **Next auto-refresh:** Wednesday, 2026-10-07 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
+> **Last auto-refresh:** 2026-10-07 · **Next auto-refresh:** Wednesday, 2026-10-14 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
 >
 > This section is fully automated — a GitHub Action rewrites it every Wednesday morning from the latest headlines and stamps the date. The gem tiers and editorial sections elsewhere in this file are maintained by a human (re-run the research to refresh them).
 
 <!-- AUTO-NEWS-START -->
 **RotoBaller (fantasy)**
-- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 4](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-4-2026/1953247) (2026-09-30)
-- [Rest-of-Season Fantasy Football Rankings: Week 4 Updates for Top 200 (2026)](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-4-2026/1953899) (2026-09-30)
-- [Start/Sit Chart - All Week 4 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-4-fantasy-football-matchups-for-all-games-2026/1953976) (2026-09-30)
-- [Week 4 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-4-2026/1953179) (2026-09-30)
-- [Week 5 College Fantasy Football Rankings (Top 300) - RB, WR, QB, TE](https://www.rotoballer.com/week-5-college-fantasy-football-rankings-top-300-2026/1953929) (2026-09-30)
-- [Defenses (DEF) to Start in Week 5 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-5-2026-best-fantasy-football-streaming-options/1954406) (2026-09-30)
-- [Week 5 College Fantasy Football Running Back Rankings](https://www.rotoballer.com/week-5-college-fantasy-football-running-back-rb-rankings-cfb-2026/1953932) (2026-09-30)
-- [Week 5 College Fantasy Football Wide Receiver Rankings](https://www.rotoballer.com/week-5-college-fantasy-football-wide-receiver-wr-rankings-cfb-2026/1953934) (2026-09-30)
+- [Top 5 Injured Players to Stash for Fantasy Football - Week 5 (2026)](https://www.rotoballer.com/top-5-injured-players-to-stash-fantasy-football-week-5-2026/1959963) (2026-10-07)
+- [Start/Sit Chart - All Week 5 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-5-fantasy-football-matchups-for-all-games-2026/1959820) (2026-10-07)
+- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 5](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-5-2026/1958977) (2026-10-07)
+- [Is De’Zhaun Stribling Out for the Season? Injury Update and Fantasy Football Outlook (Week 5)](https://www.rotoballer.com/is-dezhaun-stribling-out-for-the-season-injury-update-and-fantasy-football-outlook-week-5/1959617) (2026-10-07)
+- [Rest-of-Season Fantasy Football Rankings: Week 5 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-5-2026/1959950) (2026-10-07)
+- [Defenses (DEF) to Start in Week 6 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-6-2026-best-fantasy-football-streaming-options/1960152) (2026-10-07)
+- [Is Jordan Mason Out for the Season? Injury Update and Fantasy Football Outlook (Week 5)](https://www.rotoballer.com/is-jordan-mason-out-for-the-season-injury-update-and-fantasy-football-outlook-week-5/1959411) (2026-10-07)
+- [Who Should I Drop for Fantasy Football Week 5? Quentin Johnston, Rashod Bateman, Jake Ferguson, Adonai Mitchell, Mike Washington, Emmett Johnson, Jonah Coleman, Alec Pierce](https://www.rotoballer.com/who-should-i-drop-for-week-5-quentin-johnston-rashod-bateman-jake-ferguson-adonai-mitchell-mike-washington-jr-emmett-johnson-jonah-coleman-alec-pierce/1960231) (2026-10-07)
 
 **FantasyPros (fantasy)**
-- [6 Fantasy Football WR/CB Matchups to Know: Week 4 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-wr-cb-matchups-to-know-week-4-2026/) (2026-09-30)
-- [24 Fantasy Football Players to Buy Low & Sell High in Week 4](https://www.fantasypros.com/2026/09/24-fantasy-football-players-to-buy-low-sell-high-in-week-4/) (2026-09-30)
-- [Fantasy Football Points Allowed: Best & Worst Matchups (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-points-allowed-best-worst-matchups-week-4-2026/) (2026-09-30)
-- [Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-start-sit-advice-safe-risky-picks-week-4-2026/) (2026-09-30)
-- [6 Fantasy Football Risers & Fallers: Week 4 (2026)](https://www.fantasypros.com/2026/09/6-fantasy-football-risers-fallers-week-4-2026/) (2026-09-30)
-- [Rest-of-Season Fantasy Football Rankings: Week 4 (2026)](https://www.fantasypros.com/2026/09/rest-of-season-fantasy-football-rankings-week-4-2026/) (2026-09-30)
-- [Fantasy Football Rankings: Tight Ends (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-tight-ends-week-4/) (2026-09-30)
-- [Fantasy Football Rankings: Quarterbacks (Week 4)](https://www.fantasypros.com/2026/09/fantasy-football-rankings-quarterbacks-week-4/) (2026-09-30)
+- [25 Fantasy Football Players to Buy Low & Sell High in Week 5 (2026)](https://www.fantasypros.com/2026/10/25-fantasy-football-players-to-buy-low-sell-high-in-week-5-2026/) (2026-10-07)
+- [Fantasy Points Allowed: Best & Worst Matchups (Week 5)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-5-2026/) (2026-10-07)
+- [6 Fantasy Football Risers & Fallers: Week 5 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-5-2026/) (2026-10-07)
+- [Fantasy Football Running Back Handcuff Rankings: Week 5 (2026)](https://www.fantasypros.com/2026/10/fantasy-football-running-back-handcuff-rankings-week-5-2026/) (2026-10-07)
+- [10 Players to Buy: Week 5 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-buy-week-5-2026-fantasy-football/) (2026-10-07)
+- [10 Players to Sell: Week 5 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-sell-week-5-2026-fantasy-football/) (2026-10-07)
+- [Fantasy Football Panic Meter: Parker Washington, Emeka Egbuka, Jalen Hurts](https://www.fantasypros.com/2026/10/fantasy-football-panic-meter-parker-washington-emeka-egbuka-jalen-hurts-week-5-2026/) (2026-10-07)
+- [Fantasy Football Rankings: Kickers (Week 5)](https://www.fantasypros.com/2026/10/fantasy-football-rankings-kickers-week-5-2026/) (2026-10-07)
 
 **ESPN (NFL)** — no matching items this week.
 
 **ProFootballTalk (NFL)**
-- [Packers WR Jayden Reed to miss rest of season with neck injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-wr-jayden-reed-to-miss-rest-of-season-with-neck-injury) (2026-09-30)
-- [Giants don't plan to add Odell Beckham Jr. to the practice squad "at this time"](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-dont-plan-to-add-odell-beckham-jr-to-the-practice-squad-at-this-time) (2026-09-30)
-- [PFT's Week 4 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2026-nfl-power-rankings) (2026-09-29)
-- [Bengals put CB Jalen Davis on IR, sign TE Tanner Hudson to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-put-cb-jalen-davis-on-ir-sign-te-tanner-hudson-to-active-roster) (2026-09-29)
-- [Despite revenue concerns, Packers don't plan to expand Lambeau Field](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-revenue-concerns-packers-dont-plan-to-expand-lambeau-field) (2026-09-30)
-- [Texans put DL Mario Edwards on injured reserve](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-put-dl-mario-edwards-on-injured-reserve) (2026-09-30)
-- [Josh Simmons dealing with bulging disc, will not practice on Wednesday](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-simmons-dealing-with-bulging-disc-will-not-practice-on-wednesday) (2026-09-30)
-- [Minkah Fitzpatrick has "really good chance" of returning to Jets lineup this week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-has-really-good-chance-of-returning-to-jets-lineup-this-week) (2026-09-30)
+- [Texans sign QB Mark Gronowski to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-qb-mark-gronowski-to-active-roster) (2026-10-07)
+- [Eagles trade Cam Jurgens to Ravens](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-trade-cam-jurgens-to-ravens) (2026-10-07)
+- [Buccaneers K Chase McLaughlin set to play Thursday after landing on injury report](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-k-chase-mclaughlin-set-to-play-thursday-after-landing-on-injury-report) (2026-10-07)
+- [Eagles to sign RB Dameon Pierce to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-to-sign-rb-dameon-pierce-to-53-man-roster) (2026-10-07)
+- [Giants signing QB Jake Haener to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-signing-qb-jake-haener-to-53-man-roster) (2026-10-07)
+- [Odell Beckham Jr. joins Vikings practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-to-sign-with-vikings-practice-squad) (2026-10-07)
+- [Steelers sign CB Terrell Smith off of Commanders practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-cb-terrell-smith-off-of-commanders-practice-squad) (2026-10-06)
+- [Raiders open practice window for WR Dont’e Thornton](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-open-practice-window-for-wr-donte-thornton) (2026-10-07)
 <!-- AUTO-NEWS-END -->
 
 ---

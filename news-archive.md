@@ -1,5 +1,39 @@
 # News Archive (auto)
 
+## 2026-10-07 — weekly auto-refresh
+
+**RotoBaller (fantasy)**
+- [Top 5 Injured Players to Stash for Fantasy Football - Week 5 (2026)](https://www.rotoballer.com/top-5-injured-players-to-stash-fantasy-football-week-5-2026/1959963) (2026-10-07)
+- [Start/Sit Chart - All Week 5 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-5-fantasy-football-matchups-for-all-games-2026/1959820) (2026-10-07)
+- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 5](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-5-2026/1958977) (2026-10-07)
+- [Is De’Zhaun Stribling Out for the Season? Injury Update and Fantasy Football Outlook (Week 5)](https://www.rotoballer.com/is-dezhaun-stribling-out-for-the-season-injury-update-and-fantasy-football-outlook-week-5/1959617) (2026-10-07)
+- [Rest-of-Season Fantasy Football Rankings: Week 5 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-5-2026/1959950) (2026-10-07)
+- [Defenses (DEF) to Start in Week 6 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-6-2026-best-fantasy-football-streaming-options/1960152) (2026-10-07)
+- [Is Jordan Mason Out for the Season? Injury Update and Fantasy Football Outlook (Week 5)](https://www.rotoballer.com/is-jordan-mason-out-for-the-season-injury-update-and-fantasy-football-outlook-week-5/1959411) (2026-10-07)
+- [Who Should I Drop for Fantasy Football Week 5? Quentin Johnston, Rashod Bateman, Jake Ferguson, Adonai Mitchell, Mike Washington, Emmett Johnson, Jonah Coleman, Alec Pierce](https://www.rotoballer.com/who-should-i-drop-for-week-5-quentin-johnston-rashod-bateman-jake-ferguson-adonai-mitchell-mike-washington-jr-emmett-johnson-jonah-coleman-alec-pierce/1960231) (2026-10-07)
+
+**FantasyPros (fantasy)**
+- [25 Fantasy Football Players to Buy Low & Sell High in Week 5 (2026)](https://www.fantasypros.com/2026/10/25-fantasy-football-players-to-buy-low-sell-high-in-week-5-2026/) (2026-10-07)
+- [Fantasy Points Allowed: Best & Worst Matchups (Week 5)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-5-2026/) (2026-10-07)
+- [6 Fantasy Football Risers & Fallers: Week 5 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-5-2026/) (2026-10-07)
+- [Fantasy Football Running Back Handcuff Rankings: Week 5 (2026)](https://www.fantasypros.com/2026/10/fantasy-football-running-back-handcuff-rankings-week-5-2026/) (2026-10-07)
+- [10 Players to Buy: Week 5 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-buy-week-5-2026-fantasy-football/) (2026-10-07)
+- [10 Players to Sell: Week 5 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-sell-week-5-2026-fantasy-football/) (2026-10-07)
+- [Fantasy Football Panic Meter: Parker Washington, Emeka Egbuka, Jalen Hurts](https://www.fantasypros.com/2026/10/fantasy-football-panic-meter-parker-washington-emeka-egbuka-jalen-hurts-week-5-2026/) (2026-10-07)
+- [Fantasy Football Rankings: Kickers (Week 5)](https://www.fantasypros.com/2026/10/fantasy-football-rankings-kickers-week-5-2026/) (2026-10-07)
+
+**ESPN (NFL)** — no matching items this week.
+
+**ProFootballTalk (NFL)**
+- [Texans sign QB Mark Gronowski to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-qb-mark-gronowski-to-active-roster) (2026-10-07)
+- [Eagles trade Cam Jurgens to Ravens](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-trade-cam-jurgens-to-ravens) (2026-10-07)
+- [Buccaneers K Chase McLaughlin set to play Thursday after landing on injury report](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-k-chase-mclaughlin-set-to-play-thursday-after-landing-on-injury-report) (2026-10-07)
+- [Eagles to sign RB Dameon Pierce to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-to-sign-rb-dameon-pierce-to-53-man-roster) (2026-10-07)
+- [Giants signing QB Jake Haener to 53-man roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-signing-qb-jake-haener-to-53-man-roster) (2026-10-07)
+- [Odell Beckham Jr. joins Vikings practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-to-sign-with-vikings-practice-squad) (2026-10-07)
+- [Steelers sign CB Terrell Smith off of Commanders practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-cb-terrell-smith-off-of-commanders-practice-squad) (2026-10-06)
+- [Raiders open practice window for WR Dont’e Thornton](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-open-practice-window-for-wr-donte-thornton) (2026-10-07)
+
 ## 2026-09-30 — weekly auto-refresh
 
 **RotoBaller (fantasy)**
