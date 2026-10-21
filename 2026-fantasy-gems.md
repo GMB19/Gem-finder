@@ -10,42 +10,42 @@
 
 ## ⚡ Auto-Refreshed News — updates every Wednesday
 
-> **Last auto-refresh:** 2026-10-14 · **Next auto-refresh:** Wednesday, 2026-10-21 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
+> **Last auto-refresh:** 2026-10-21 · **Next auto-refresh:** Wednesday, 2026-10-28 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
 >
 > This section is fully automated — a GitHub Action rewrites it every Wednesday morning from the latest headlines and stamps the date. The gem tiers and editorial sections elsewhere in this file are maintained by a human (re-run the research to refresh them).
 
 <!-- AUTO-NEWS-START -->
 **RotoBaller (fantasy)**
-- [Sneaky Starts, Pivot Plays, and Waiver Wire Streamers for Week 6 Fantasy Football](https://www.rotoballer.com/fantasy-football-sneaky-waiver-wire-pickups-starts-for-week-6-2026/1966096) (2026-10-14)
-- [Rest-of-Season Fantasy Football Rankings: Week 6 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-6-2026/1965710) (2026-10-14)
-- [Week 6 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-6-2026/1965611) (2026-10-14)
-- [Video: Week 6 Defense (D/ST) Must Starts for Fantasy Football](https://www.rotoballer.com/radio/video-week-6-defense-d-st-fantasy-football-must-starts-2026/1965981/) (2026-10-14)
-- [Who Should I Start for Fantasy Football Week 6? Jordan Love, Jameis Winston, Jacoby Brissett, Tyler Shough, Bryce Young, Aaron Rodgers, Jayden Daniels, Drake Maye, Matthew Stafford](https://www.rotoballer.com/who-should-i-start-for-week-6-jordan-love-jameis-winston-jacoby-brissett-tyler-shough-bryce-young-aaron-rodgers-jayden-daniels-drake-maye-matthew-stafford/1965992) (2026-10-14)
-- [Who Should I Start for Fantasy Football Week 6? Woody Marks, Marshawn Lloyd, Kendre Miller, Wan'Dale Robinson, Jalen Coker, Rhamondre Stevenson, Luther Burden, DK Metcalf](https://www.rotoballer.com/who-should-i-start-for-week-6-players-like-woody-marks-marshawn-lloyd-kendre-miller-wandale-robinson-jalen-coker-rhamondre-stevenson-luther-burden-iii-dk-metcalf/1965991) (2026-10-14)
-- [Who Should I Start for Fantasy Football Week 6? Braelon Allen, Romeo Doubs, Josh Downs, Terry McLaurin, Alvin Kamara, Devaughn Vele, Kendrick Bourne, Christian Watson, Tyler Allgeier](https://www.rotoballer.com/who-should-i-start-for-week-6-braelon-allen-romeo-doubs-josh-downs-terry-mclaurin-alvin-kamara-devaughn-vele-kendrick-bourne-christian-watson-tyler-allgeier/1965990) (2026-10-14)
-- [Defenses (DEF) to Start in Week 7 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-7-2026-best-fantasy-football-streaming-options/1965882) (2026-10-14)
+- [Rest-of-Season Fantasy Football Rankings: Week 7 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-7-2026/1971638) (2026-10-21)
+- [Start/Sit Chart - All Week 7 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-7-fantasy-football-matchups-for-all-games-2026/1971516) (2026-10-21)
+- [Week 7 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-7-2026/1967351) (2026-10-21)
+- [Video: Week 7 Defense (D/ST) Must Starts for Fantasy Football](https://www.rotoballer.com/radio/video-week-7-defense-d-st-fantasy-football-must-starts-2026/1971967/) (2026-10-21)
+- [Who Should I Start for Fantasy Football Week 7? Matthew Stafford, Geno Smith, Patrick Mahomes, Baker Mayfield, JJ Mccarthy, Michael Penix, Brock Purdy, Deshaun Watson, Tanner Mckee](https://www.rotoballer.com/who-should-i-start-for-week-7-matthew-stafford-geno-smith-patrick-mahomes-baker-mayfield-j-j-mccarthy-michael-penix-jr-brock-purdy-deshaun-watson-tanner-mckee/1971989) (2026-10-21)
+- [Who Should I Start for Fantasy Football Week 7? DK Metcalf, Tyrone Tracy Jr., Bucky Irving, Rico Dowdle, Emeka Egbuka, Tee Higgins, Alvin Kamara, Tyler Allgeier, Cam Skattebo](https://www.rotoballer.com/who-should-i-start-for-week-7-dk-metcalf-tyrone-tracy-jr-bucky-irving-rico-dowdle-emeka-egbuka-tee-higgins-alvin-kamara-tyler-allgeier-cam-skattebo/1971988) (2026-10-21)
+- [Defenses (DEF) to Start in Week 8 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-8-2026-best-fantasy-football-streaming-options/1971910) (2026-10-21)
+- [Who Should I Start for Fantasy Football Week 7? Bam Knight, Jordan Addison, Keenan Allen, George Pickens, Xavier Worthy, Chuba Hubbard, Courtland Sutton, Aaron Jones, DeVonta Smith](https://www.rotoballer.com/who-should-i-start-for-week-7-bam-knight-jordan-addison-keenan-allen-george-pickens-xavier-worthy-chuba-hubbard-courtland-sutton-aaron-jones-sr-devonta-smith/1971987) (2026-10-21)
 
 **FantasyPros (fantasy)**
-- [6 Fantasy Football Risers & Fallers: Week 6 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-6-2026/) (2026-10-14)
-- [Dynasty Fantasy Football Trade Advice: Buy, Sell, Hold (Week 6)](https://www.fantasypros.com/2026/10/dynasty-fantasy-football-trade-advice-buy-sell-hold-week-6-2026/) (2026-10-14)
-- [Fantasy Points Allowed: Best & Worst Matchups (Week 6)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-6-2026/) (2026-10-14)
-- [Fantasy Football Start/Sit: Dameon Pierce, Germie Bernard, Kendrick Bourne](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-dameon-pierce-germie-bernard-kendrick-bourne-week-6-2026/) (2026-10-14)
-- [Beyond the Waiver Wire: Fantasy Football Moves to Make (Week 6)](https://www.fantasypros.com/2026/10/beyond-the-waiver-wire-fantasy-football-moves-to-make-week-6-2/) (2026-10-13)
-- [Fantasy Football Kicker Rankings & Waiver Wire Pickups (Week 6)](https://www.fantasypros.com/2026/10/fantasy-football-kicker-rankings-waiver-wire-pickups-week-6-2026/) (2026-10-13)
-- [Fantasy Football Trade Advice: Players to Buy, Sell or Hold (Week 6)](https://www.fantasypros.com/2026/10/fantasy-football-trade-advice-players-to-buy-sell-or-hold-week-6/) (2026-10-13)
-- [Let’s Stream Defenses: Week 6 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/lets-stream-defenses-week-6-2026-fantasy-football/) (2026-10-13)
+- [Fantasy Points Allowed: Best & Worst Matchups (Week 7)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-7-2026/) (2026-10-21)
+- [6 Fantasy Football Risers & Fallers: Week 7 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-7-2026/) (2026-10-21)
+- [Fantasy Football Start/Sit: Rhamondre Stevenson, Luther Burden, AJ Brown](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-rhamondre-stevenson-luther-burden-aj-brown-week-7-2026/) (2026-10-21)
+- [Fantasy Football Start/Sit: Rome Odunze, Colston Loveland, DeMario Douglas](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-rome-odunze-colston-loveland-demario-douglas-week-7-2026/) (2026-10-21)
+- [Fantasy Football Start/Sit: Hunter Henry, TreVeyon Henderson, Roschon Johnson](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-hunter-henry-treveyon-henderson-roschon-johnson-week-7-2026/) (2026-10-21)
+- [Fantasy Football Start/Sit: Kendre Miller, Germie Bernard, Omar Cooper Jr.](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-kendre-miller-germie-bernard-omar-cooper-jr-week-7-2026/) (2026-10-21)
+- [Fantasy Football Rankings: Rest-of-Season (Week 7)](https://www.fantasypros.com/2026/10/fantasy-football-rankings-rest-of-season-week-7-2026/) (2026-10-21)
+- [Fantasy Football Start/Sit: Tre Tucker, Jaylin Noel, Aaron Rodgers](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-tre-tucker-jaylin-noel-aaron-rodgers-week-7-2026/) (2026-10-21)
 
 **ESPN (NFL)** — no matching items this week.
 
 **ProFootballTalk (NFL)**
-- [PFT's Week 6 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-6-2026-nfl-power-rankings) (2026-10-13)
-- [Jets rookie WR Omar Cooper returns to practice; Breece Hall, Adonai Mitchell still week-to-week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rookie-wr-omar-cooper-returns-to-practice-breece-hall-adonai-mitchell-still-week-to-week) (2026-10-14)
-- [Greg Rousseau wins AFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-rousseau-wins-afc-special-teams-player-of-the-week) (2026-10-14)
-- [49ers P Corliss Waitman is the NFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-p-corliss-waitman-is-the-nfc-special-teams-player-of-the-week) (2026-10-14)
-- [Vikings CB Byron Murphy is the NFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-cb-byron-murphy-is-the-nfc-defensive-player-of-the-week) (2026-10-14)
-- [Jahmyr Gibbs named NFC offensive player of the week for the fourth time](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-named-nfc-offensive-player-of-the-week-for-the-fourth-time) (2026-10-14)
-- [David Bailey wins AFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-bailey-wins-afc-defensive-player-of-the-week) (2026-10-14)
-- [Drew Rosenhaus still claims a Tyreek Hill deal "could happen at any time"](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-rosenhaus-still-claims-a-tyreek-hill-deal-could-happen-at-any-time) (2026-10-14)
+- [Jerry Jones: We could do something at trade deadline to help the team this year](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-we-could-do-something-at-trade-deadline-to-help-the-team-this-year) (2026-10-21)
+- [PFT's Week 7 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2026-nfl-power-rankings) (2026-10-20)
+- [Report: Giants to start J.J. McCarthy this week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-start-j-j-mccarthy-this-week) (2026-10-21)
+- [Chad Ryland wins NFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chad-ryland-wins-nfc-special-teams-player-of-the-week) (2026-10-21)
+- [Titans RB Julius Chestnut is the AFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-rb-julius-chestnut-is-the-afc-special-teams-player-of-the-week) (2026-10-21)
+- [Martin Emerson wins first career NFC defensive player of the week award](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/martin-emerson-wins-first-career-nfc-defensive-player-of-the-week-award) (2026-10-21)
+- [Jalen Ramsey named the AFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-named-the-afc-defensive-player-of-the-week) (2026-10-21)
+- [C.J. Stroud named the AFC offensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-named-the-afc-offensive-player-of-the-week) (2026-10-21)
 <!-- AUTO-NEWS-END -->
 
 ---
