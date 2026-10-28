@@ -10,42 +10,42 @@
 
 ## ⚡ Auto-Refreshed News — updates every Wednesday
 
-> **Last auto-refresh:** 2026-10-21 · **Next auto-refresh:** Wednesday, 2026-10-28 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
+> **Last auto-refresh:** 2026-10-28 · **Next auto-refresh:** Wednesday, 2026-11-04 ~7:00 AM ET · **Source feeds:** RotoBaller, FantasyPros, ESPN NFL, ProFootballTalk (public RSS) · driven by `.github/workflows/update-gems.yml` + `.github/scripts/update_report.py`.
 >
 > This section is fully automated — a GitHub Action rewrites it every Wednesday morning from the latest headlines and stamps the date. The gem tiers and editorial sections elsewhere in this file are maintained by a human (re-run the research to refresh them).
 
 <!-- AUTO-NEWS-START -->
 **RotoBaller (fantasy)**
-- [Rest-of-Season Fantasy Football Rankings: Week 7 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-7-2026/1971638) (2026-10-21)
-- [Start/Sit Chart - All Week 7 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-7-fantasy-football-matchups-for-all-games-2026/1971516) (2026-10-21)
-- [Week 7 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-7-2026/1967351) (2026-10-21)
-- [Video: Week 7 Defense (D/ST) Must Starts for Fantasy Football](https://www.rotoballer.com/radio/video-week-7-defense-d-st-fantasy-football-must-starts-2026/1971967/) (2026-10-21)
-- [Who Should I Start for Fantasy Football Week 7? Matthew Stafford, Geno Smith, Patrick Mahomes, Baker Mayfield, JJ Mccarthy, Michael Penix, Brock Purdy, Deshaun Watson, Tanner Mckee](https://www.rotoballer.com/who-should-i-start-for-week-7-matthew-stafford-geno-smith-patrick-mahomes-baker-mayfield-j-j-mccarthy-michael-penix-jr-brock-purdy-deshaun-watson-tanner-mckee/1971989) (2026-10-21)
-- [Who Should I Start for Fantasy Football Week 7? DK Metcalf, Tyrone Tracy Jr., Bucky Irving, Rico Dowdle, Emeka Egbuka, Tee Higgins, Alvin Kamara, Tyler Allgeier, Cam Skattebo](https://www.rotoballer.com/who-should-i-start-for-week-7-dk-metcalf-tyrone-tracy-jr-bucky-irving-rico-dowdle-emeka-egbuka-tee-higgins-alvin-kamara-tyler-allgeier-cam-skattebo/1971988) (2026-10-21)
-- [Defenses (DEF) to Start in Week 8 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-8-2026-best-fantasy-football-streaming-options/1971910) (2026-10-21)
-- [Who Should I Start for Fantasy Football Week 7? Bam Knight, Jordan Addison, Keenan Allen, George Pickens, Xavier Worthy, Chuba Hubbard, Courtland Sutton, Aaron Jones, DeVonta Smith](https://www.rotoballer.com/who-should-i-start-for-week-7-bam-knight-jordan-addison-keenan-allen-george-pickens-xavier-worthy-chuba-hubbard-courtland-sutton-aaron-jones-sr-devonta-smith/1971987) (2026-10-21)
+- [Rest-of-Season Fantasy Football Rankings: Week 8 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-8-2026/1977493) (2026-10-28)
+- [Start/Sit Chart - All Week 8 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-8-fantasy-football-matchups-for-all-games-2026/1977302) (2026-10-28)
+- [Video: Week 8 Defense (D/ST) Must Starts for Fantasy Football](https://www.rotoballer.com/radio/video-week-8-defense-d-st-fantasy-football-must-starts-2026/1977685/) (2026-10-28)
+- [Week 8 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-8-2026/1975037) (2026-10-28)
+- [Who Should I Start for Fantasy Football Week 8? Pat Freiermuth, Harold Fannin Jr., Tyler Warren, Dallas Goedert, Colston Loveland, Michael Mayer, Mason Taylor, AJ Barner, Mike Gesicki](https://www.rotoballer.com/who-should-i-start-for-week-8-pat-freiermuth-harold-fannin-jr-tyler-warren-dallas-goedert-colston-loveland-michael-mayer-mason-taylor-aj-barner-mike-gesicki/1977775) (2026-10-28)
+- [Who Should I Start for Fantasy Football Week 8? Rome Odunze, Malik Washington, Bucky Irving, J.K. Dobbins, RJ Harvey, Samaje Perine, Ladd McConkey, Zach Charbonnet, Roschon Johnson](https://www.rotoballer.com/who-should-i-start-for-week-8-rome-odunze-malik-washington-bucky-irving-j-k-dobbins-rj-harvey-samaje-perine-ladd-mcconkey-zach-charbonnet-roschon-johnson/1977774) (2026-10-28)
+- [Defenses (DEF) to Start in Week 9 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-9-2026-best-fantasy-football-streaming-options/1977688) (2026-10-28)
+- [Who Should I Start for Fantasy Football Week 8? DK Metcalf, Garrett Wilson, DeMario Douglas, Jaylen Waddle, Kyle Monangai, Emeka Egbuka, Blake Corum, Rhamondre Stevenson](https://www.rotoballer.com/who-should-i-start-for-week-8-dk-metcalf-garrett-wilson-demario-douglas-jaylen-waddle-kyle-monangai-emeka-egbuka-blake-corum-rhamondre-stevenson/1977773) (2026-10-28)
 
 **FantasyPros (fantasy)**
-- [Fantasy Points Allowed: Best & Worst Matchups (Week 7)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-7-2026/) (2026-10-21)
-- [6 Fantasy Football Risers & Fallers: Week 7 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-7-2026/) (2026-10-21)
-- [Fantasy Football Start/Sit: Rhamondre Stevenson, Luther Burden, AJ Brown](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-rhamondre-stevenson-luther-burden-aj-brown-week-7-2026/) (2026-10-21)
-- [Fantasy Football Start/Sit: Rome Odunze, Colston Loveland, DeMario Douglas](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-rome-odunze-colston-loveland-demario-douglas-week-7-2026/) (2026-10-21)
-- [Fantasy Football Start/Sit: Hunter Henry, TreVeyon Henderson, Roschon Johnson](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-hunter-henry-treveyon-henderson-roschon-johnson-week-7-2026/) (2026-10-21)
-- [Fantasy Football Start/Sit: Kendre Miller, Germie Bernard, Omar Cooper Jr.](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-kendre-miller-germie-bernard-omar-cooper-jr-week-7-2026/) (2026-10-21)
-- [Fantasy Football Rankings: Rest-of-Season (Week 7)](https://www.fantasypros.com/2026/10/fantasy-football-rankings-rest-of-season-week-7-2026/) (2026-10-21)
-- [Fantasy Football Start/Sit: Tre Tucker, Jaylin Noel, Aaron Rodgers](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-tre-tucker-jaylin-noel-aaron-rodgers-week-7-2026/) (2026-10-21)
+- [21 Fantasy Football Players to Buy Low & Sell High in Week 8](https://www.fantasypros.com/2026/10/21-fantasy-football-players-to-buy-low-sell-high-in-week-8/) (2026-10-28)
+- [Fantasy Points Allowed: Best & Worst Matchups (Week 8)](https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-8-2026/) (2026-10-28)
+- [6 Fantasy Football Smash Starts: Week 8 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-smash-starts-week-8-2026/) (2026-10-28)
+- [6 Fantasy Football Risers & Fallers: Week 8 (2026)](https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-8-2026/) (2026-10-28)
+- [10 Players to Trade Away Week 8 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-trade-away-week-8-2026-fantasy-football/) (2026-10-28)
+- [10 Players to Trade For Week 8 (2026 Fantasy Football)](https://www.fantasypros.com/2026/10/10-players-to-trade-for-week-8-2026-fantasy-football/) (2026-10-28)
+- [Fantasy Football Start/Sit: Jonah Coleman, Antonio Williams, Omar Cooper Jr.](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-jonah-coleman-antonio-williams-omar-cooper-jr-week-8-2026/) (2026-10-28)
+- [Fantasy Football Expert Rankings: Rest of Season (Week 8)](https://www.fantasypros.com/2026/10/fantasy-football-expert-rankings-rest-of-season-week-8-2026/) (2026-10-28)
 
 **ESPN (NFL)** — no matching items this week.
 
 **ProFootballTalk (NFL)**
-- [Jerry Jones: We could do something at trade deadline to help the team this year](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-we-could-do-something-at-trade-deadline-to-help-the-team-this-year) (2026-10-21)
-- [PFT's Week 7 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2026-nfl-power-rankings) (2026-10-20)
-- [Report: Giants to start J.J. McCarthy this week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-start-j-j-mccarthy-this-week) (2026-10-21)
-- [Chad Ryland wins NFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chad-ryland-wins-nfc-special-teams-player-of-the-week) (2026-10-21)
-- [Titans RB Julius Chestnut is the AFC special teams player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-rb-julius-chestnut-is-the-afc-special-teams-player-of-the-week) (2026-10-21)
-- [Martin Emerson wins first career NFC defensive player of the week award](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/martin-emerson-wins-first-career-nfc-defensive-player-of-the-week-award) (2026-10-21)
-- [Jalen Ramsey named the AFC defensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-named-the-afc-defensive-player-of-the-week) (2026-10-21)
-- [C.J. Stroud named the AFC offensive player of the week](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-named-the-afc-offensive-player-of-the-week) (2026-10-21)
+- [Josh Downs on trade request: "I'm open to whatever"](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-downs-on-trade-request-im-open-to-whatever) (2026-10-28)
+- [Report: Colts WR Josh Downs requests a trade](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-wr-josh-downs-requests-a-trade) (2026-10-28)
+- [Commanders put Terry McLaurin on IR, sign Van Jefferson to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-put-terry-mclaurin-on-ir-sign-van-jefferson-to-active-roster) (2026-10-28)
+- [Report: Jaylen Waddle aggravated previous chest injury, Week 8 status TBD](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaylen-waddle-aggravated-previous-chest-injury-week-8-status-tbd) (2026-10-28)
+- [Chiefs to sign Justin Tucker to their practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-to-sign-justin-tucker-to-their-practice-squad) (2026-10-28)
+- [Jerry Jones thinks it is "unlikely" Cowboys add help in a trade](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-thinks-it-is-unlikely-cowboys-add-help-in-a-trade) (2026-10-28)
+- [PFT's Week 8 NFL 2026 power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-8-nfl-2026-power-rankings) (2026-10-27)
+- [Report: Aaron Jones considered day-to-day with knee injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-jones-considered-day-to-day-with-knee-injury) (2026-10-26)
 <!-- AUTO-NEWS-END -->
 
 ---
