@@ -1,5 +1,39 @@
 # News Archive (auto)
 
+## 2026-11-11 — weekly auto-refresh
+
+**RotoBaller (fantasy)**
+- [Sneaky Starts, Pivot Plays, and Waiver Wire Streamers for Week 10 Fantasy Football](https://www.rotoballer.com/fantasy-football-sneaky-waiver-wire-pickups-starts-for-week-10-2026/1990682) (2026-11-11)
+- [Start/Sit Chart - All Week 10 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-10-fantasy-football-matchups-for-all-games-2026/1990012) (2026-11-11)
+- [Who Should I Trade For or Trade Away? Keenan Allen, Javonte Williams, Malik Nabers, J.K. Dobbins, Cam Skattebo, Jameson Williams](https://www.rotoballer.com/who-should-i-trade-for-in-week-10-keenan-allen-javonte-williams-malik-nabers-j-k-dobbins-cam-skattebo-jameson-williams/1990585) (2026-11-11)
+- [Who Should I Trade For or Trade Away? Omar Cooper Jr., KC Concepcion Jr., Hunter Henry, Trey McBride, Tee Higgins, Kyren Williams](https://www.rotoballer.com/who-should-i-trade-for-in-week-10-omar-cooper-jr-kc-concepcion-jr-hunter-henry-trey-mcbride-tee-higgins-kyren-williams/1990586) (2026-11-11)
+- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 10](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-10-2026/1989755) (2026-11-11)
+- [Who Should I Trade For or Trade Away? Bijan Robinson, Ashton Jeanty, Rashee Rice, Breece Hall, Christian Watson, Tyler Allgeier](https://www.rotoballer.com/who-should-i-trade-for-in-week-10-bijan-robinson-ashton-jeanty-rashee-rice-breece-hall-christian-watson-tyler-allgeier/1990559) (2026-11-11)
+- [Who Should I Start for Fantasy Football Week 10? Brock Purdy, Joe Burrow, Jacoby Brissett, Daniel Jones, Matthew Stafford, Josh Allen, Justin Herbert, Deshaun Watson, Patrick Mahomes](https://www.rotoballer.com/who-should-i-start-for-week-10-brock-purdy-joe-burrow-jacoby-brissett-daniel-jones-matthew-stafford-josh-allen-justin-herbert-deshaun-watson-patrick-mahomes/1990536) (2026-11-11)
+- [Who Should I Start for Fantasy Football Week 10? Rashee Rice, Jordan Watkins, Omarion Hampton, Ladd McConkey, DeVaughn Vele, Derrick Henry, Malik Washington, Keon Coleman, Chuba Hubbard](https://www.rotoballer.com/who-should-i-start-for-week-10-rashee-rice-jordan-watkins-omarion-hampton-ladd-mcconkey-devaughn-vele-derrick-henry-malik-washington-keon-coleman-chuba-hubbard/1990532) (2026-11-11)
+
+**FantasyPros (fantasy)**
+- [Fantasy Football Players to Buy Low & Sell High in Week 10 (2026)](https://www.fantasypros.com/2026/11/fantasy-football-players-to-buy-low-sell-high-in-week-10-2026/) (2026-11-11)
+- [6 Fantasy Football Risers & Fallers: Week 10 (2026)](https://www.fantasypros.com/2026/11/6-fantasy-football-risers-fallers-week-10-2026/) (2026-11-11)
+- [Beyond the Waiver Wire: Fantasy Football Moves to Make (Week 10)](https://www.fantasypros.com/2026/11/beyond-the-waiver-wire-fantasy-football-moves-to-make-week-10-advice/) (2026-11-11)
+- [Let’s Stream Defenses: Week 10 (2026 Fantasy Football)](https://www.fantasypros.com/2026/11/lets-stream-defenses-week-10-2026-fantasy-football/) (2026-11-10)
+- [Fantasy Football Trade Advice: Players to Buy, Sell or Hold (Week 10)](https://www.fantasypros.com/2026/11/fantasy-football-trade-advice-players-to-buy-sell-or-hold-week-10-2026/) (2026-11-10)
+- [Fantasy Football TE Streamers & Waiver Wire Targets (Week 10)](https://www.fantasypros.com/2026/11/fantasy-football-te-streamers-waiver-wire-targets-week-10-2026/) (2026-11-10)
+- [Fantasy Football IDP Waiver Wire Pickups: Week 10 (2026)](https://www.fantasypros.com/2026/11/fantasy-football-idp-waiver-wire-pickups-week-10-2026/) (2026-11-10)
+- [Fantasy Football Trade Value Chart: Week 10 (2026)](https://www.fantasypros.com/2026/11/fantasy-football-trade-value-chart-week-10-2026/) (2026-11-10)
+
+**ESPN (NFL)** — no matching items this week.
+
+**ProFootballTalk (NFL)**
+- [Titans sign LB Mohamoud Diabate off Panthers practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-lb-mohamoud-diabate-off-panthers-practice-squad) (2026-11-11)
+- [Report: Giants called Falcons about a potential Bijan Robinson trade](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-called-falcons-about-a-potential-bijan-robinson-trade) (2026-11-11)
+- [CBA allows 49ers to not pay Brandon Aiyuk during two-week roster exemption](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cba-allows-49ers-to-not-pay-brandon-aiyuk-during-two-week-roster-exemption) (2026-11-11)
+- [Report: Despite multiple offers, Colts will not trade Jonathan Taylor](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-despite-multiple-offers-colts-will-not-trade-jonathan-taylor) (2026-11-10)
+- [PFT's Week 10 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-10-2026-nfl-power-rankings) (2026-11-10)
+- [Titans agree to trade S Amani Hooker to Bills](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-trade-s-amani-hooker-to-bills) (2026-11-10)
+- [Colts agree to trade Keenan Allen to 49ers](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-agree-to-trade-keenan-allen-to-49ers) (2026-11-10)
+- [Bengals call off trade for Arnold Ebiketie](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-call-off-trade-for-arnold-ebiketie) (2026-11-10)
+
 ## 2026-11-04 — weekly auto-refresh
 
 **RotoBaller (fantasy)**
