@@ -1,5 +1,39 @@
 # News Archive (auto)
 
+## 2026-11-18 — weekly auto-refresh
+
+**RotoBaller (fantasy)**
+- [Who Should I Start for Fantasy Football Week 11? Jaylen Waddle, Bam Knight, D'Andre Swift, Justice Hill, Bucky Irving, George Pickens, Derrick Henry, Rico Dowdle, Stefon Diggs](https://www.rotoballer.com/who-should-i-start-for-week-11-jaylen-waddle-bam-knight-dandre-swift-justice-hill-bucky-irving-george-pickens-derrick-henry-rico-dowdle-stefon-diggs/1997255) (2026-11-18)
+- [Top 5 Injured Players to Stash for Fantasy Football - Week 11 (2026)](https://www.rotoballer.com/top-5-injured-players-to-stash-fantasy-football-week-11-2026/1996582) (2026-11-18)
+- [Who Should I Start for Fantasy Football Week 11? Rachaad White, Pat Bryant, Omarion Hampton, Bhayshul Tuten, James Cook III, Kyle Monangai, Rome Odunze, Devin Singletary, Rashee Rice](https://www.rotoballer.com/who-should-i-start-for-week-11-rachaad-white-pat-bryant-omarion-hampton-bhayshul-tuten-james-cook-iii-kyle-monangai-rome-odunze-devin-singletary-rashee-rice/1997256) (2026-11-18)
+- [Who Should I Start for Fantasy Football Week 11? Josh Downs, Emeka Egbuka, Jameson Williams, Aaron Jones Sr., Ashton Jeanty, J.K. Dobbins, Khalil Shakir, Chase Brown, Ladd McConkey](https://www.rotoballer.com/who-should-i-start-for-week-11-josh-downs-emeka-egbuka-jameson-williams-aaron-jones-sr-ashton-jeanty-j-k-dobbins-khalil-shakir-chase-brown-ladd-mcconkey/1997257) (2026-11-18)
+- [Rest-of-Season Fantasy Football Rankings: Week 11 Updates for Top 200](https://www.rotoballer.com/ros-fantasy-football-rankings-top-200-for-week-11-2026/1996902) (2026-11-18)
+- [Start/Sit Chart - All Week 11 Fantasy Football Matchups and Player Ratings](https://www.rotoballer.com/start-sit-chart-week-11-fantasy-football-matchups-for-all-games-2026/1996457) (2026-11-18)
+- [Week 11 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-11-2026/1994799) (2026-11-18)
+- [Defenses (DEF) to Start in Week 12 (2026): Best Fantasy Football Streaming Options](https://www.rotoballer.com/defenses-def-to-start-in-week-12-2026-best-fantasy-football-streaming-options/1997038) (2026-11-18)
+
+**FantasyPros (fantasy)**
+- [Fantasy Football Trade Deadline: 15 Players to Buy Low & Sell High (2026)](https://www.fantasypros.com/2026/11/fantasy-football-trade-deadline-15-players-to-buy-low-sell-high-2026/) (2026-11-18)
+- [6 Fantasy Football Risers & Fallers: Week 11 (2026)](https://www.fantasypros.com/2026/11/6-fantasy-football-risers-fallers-week-11-2026/) (2026-11-18)
+- [Let’s Stream Defenses: Week 11 (2026 Fantasy Football)](https://www.fantasypros.com/2026/11/lets-stream-defenses-week-11-2026-fantasy-football/) (2026-11-17)
+- [Beyond the Waiver Wire: Fantasy Football Moves to Make (Week 11)](https://www.fantasypros.com/2026/11/beyond-the-waiver-wire-fantasy-football-moves-to-make-week-11-advice/) (2026-11-17)
+- [Fantasy Football Trade Advice: Players to Buy, Sell or Hold (Week 11)](https://www.fantasypros.com/2026/11/fantasy-football-trade-advice-players-to-buy-sell-or-hold-week-11-2026/) (2026-11-17)
+- [Fantasy Football TE Streamers & Waiver Wire Targets (Week 11)](https://www.fantasypros.com/2026/11/fantasy-football-te-streamers-waiver-wire-targets-week-11-2026/) (2026-11-17)
+- [Fantasy Football Trade Value Chart: Week 11 (2026)](https://www.fantasypros.com/2026/11/fantasy-football-trade-value-chart-week-11-2026/) (2026-11-17)
+- [Fantasy Football IDP Waiver Wire Pickups: Week 11 (2026)](https://www.fantasypros.com/2026/11/fantasy-football-idp-waiver-wire-pickups-week-11-2026/) (2026-11-17)
+
+**ESPN (NFL)** — no matching items this week.
+
+**ProFootballTalk (NFL)**
+- [Kenneth Walker won't practice Wednesday with groin injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-wont-practice-wednesday-with-groin-injury) (2026-11-18)
+- [Vikings sign WR Jeshaun Jones to active roster](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-wr-jeshaun-jones-to-active-roster) (2026-11-18)
+- [Wan'Dale Robinson out for season with ankle injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wandale-robinson-out-for-season-with-ankle-injury) (2026-11-18)
+- [49ers likely won't cut Brandon Aiyuk until they have to](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-likely-wont-cut-brandon-aiyuk-until-they-have-to) (2026-11-18)
+- [Report: Jaguars C Robert Hainsey week-to-week with knee injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaguars-c-robert-hainsey-week-to-week-with-knee-injury) (2026-11-18)
+- [PFT's Week 11 2026 NFL power rankings](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-11-2026-nfl-power-rankings) (2026-11-17)
+- [After earning their first win, Chargers are favored to win their second vs. Jets](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-earning-their-first-win-chargers-are-favored-to-win-their-second-vs-jets) (2026-11-18)
+- [Darren Waller, Tommy Tremble out of practice for Panthers](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darren-waller-tommy-tremble-out-of-practice-for-panthers) (2026-11-18)
+
 ## 2026-11-11 — weekly auto-refresh
 
 **RotoBaller (fantasy)**
