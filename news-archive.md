@@ -1,5 +1,39 @@
 # News Archive (auto)
 
+## 2026-11-25 — weekly auto-refresh
+
+**RotoBaller (fantasy)**
+- [Video: Week 12 Defense (D/ST) Must Starts for Fantasy Football](https://www.rotoballer.com/radio/video-week-12-defense-d-st-fantasy-football-must-starts-2026/2004335/) (2026-11-25)
+- [Top 5 Injured Players to Stash for Fantasy Football - Week 12 (2026)](https://www.rotoballer.com/top-5-injured-players-to-stash-fantasy-football-week-12-2026/2002927) (2026-11-25)
+- [Week 12 Fantasy Football Projections (Half PPR): RB, WR, TE, QB, D/ST, K](https://www.rotoballer.com/fantasy-football-projections-for-week-12-rb-wr-qb-te-d-st-k-2026/2004118) (2026-11-25)
+- [Well-Known Fantasy Football Players - Drop, Hold, or Sell Low for Week 12](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-12-2026/2001677) (2026-11-25)
+- [Week 12 Fantasy Football Rankings: All League Formats](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) (2026-11-25)
+- [Week 12 Fantasy Football Matchups We Love - Start 'Em, Sit 'Em Picks](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-12-2026/2002135) (2026-11-25)
+- [WR/CB Matchups to Upgrade and Downgrade - Fantasy Football Week 12](https://www.rotoballer.com/wr-cb-matchups-for-fantasy-football-sleepers-targets-for-week-12-2026/2002394) (2026-11-25)
+- [Packers vs. Rams Start 'Em, Sit 'Em: Wednesday Night - Jordan Love, Christian Watson, Matthew Golden, Tucker Kraft, Matthew Stafford, Kyren Williams, Blake Corum, Tyler Higbee, more](https://www.rotoballer.com/fantasy-football-start-em-sit-em-wednesday-packers-vs-rams-week-12-2026/2001930) (2026-11-25)
+
+**FantasyPros (fantasy)**
+- [Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 12)](https://www.fantasypros.com/2026/11/fantasy-football-rankings-tiers-start-sit-advice-week-12-2026/) (2026-11-25)
+- [6 Fantasy Football Smash Starts: Week 12 (2026)](https://www.fantasypros.com/2026/11/6-fantasy-football-smash-starts-week-12-2026/) (2026-11-25)
+- [6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 12)](https://www.fantasypros.com/2026/11/6-fantasy-football-lineup-landmines-start-sit-advice-week-12-2026/) (2026-11-25)
+- [6 Fantasy Football Risers & Fallers: Week 12 (2026)](https://www.fantasypros.com/2026/11/6-fantasy-football-risers-fallers-week-12-2026/) (2026-11-25)
+- [Fantasy Football Rankings: Most Accurate Experts (Week 12)](https://www.fantasypros.com/2026/11/fantasy-football-rankings-most-accurate-experts-week-12-2026/) (2026-11-25)
+- [Let’s Stream Defenses: Week 12 (2026 Fantasy Football)](https://www.fantasypros.com/2026/11/lets-stream-defenses-week-12-2026-fantasy-football/) (2026-11-24)
+- [8 Week 12 Waiver Wire Pickups & Streamers (2026)](https://www.fantasypros.com/2026/11/8-week-12-waiver-wire-pickups-streamers-2026/) (2026-11-24)
+- [Beyond the Waiver Wire: Fantasy Football Moves to Make (Week 12)](https://www.fantasypros.com/2026/11/beyond-the-waiver-wire-fantasy-football-moves-to-make-week-12-advice/) (2026-11-24)
+
+**ESPN (NFL)** — no matching items this week.
+
+**ProFootballTalk (NFL)**
+- [Brock Purdy out of practice Wednesday with ankle injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-out-of-practice-wednesday-with-ankle-injury) (2026-11-25)
+- [Brandon Aiyuk agrees to join Commanders practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-agrees-to-join-commanders-practice-squad) (2026-11-25)
+- [Titans sign CB Corey Thornton off of the Panthers practice squad](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-cb-corey-thornton-off-of-the-panthers-practice-squad) (2026-11-25)
+- [Quinyon Mitchell has no injury designation for Thanksgiving](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinyon-mitchell-has-no-injury-designation-for-thanksgiving) (2026-11-25)
+- [Bears rule out Kyler Gordon, Roschon Johnson](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-rule-out-kyler-gordon-roschon-johnson) (2026-11-25)
+- [Rams activate DE Kobie Turner off IR](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-activate-de-kobie-turner-off-ir) (2026-11-25)
+- [Lions list DJ Wonnum, Chuck Clark as questionable for Thursday](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-list-dj-wonnum-chuck-clark-as-questionable-for-thursday) (2026-11-25)
+- [Pat Freiermuth: Aaron Rodgers said what he said, I'm focused on Denver](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pat-freiermuth-aaron-rodgers-said-what-he-said-im-focused-on-denver) (2026-11-25)
+
 ## 2026-11-18 — weekly auto-refresh
 
 **RotoBaller (fantasy)**
